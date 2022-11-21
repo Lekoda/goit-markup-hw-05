@@ -67,8 +67,6 @@ img {
   text-decoration: none;
 }
 .header {
-  padding-top: 24px;
-  padding-bottom: 24px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.1428;
@@ -93,6 +91,7 @@ img {
   margin-left: auto;
 }
 .site-nav .link {
+  display: block;
   padding-top: 24px;
   padding-bottom: 24px;
   color: var(--text-grey-color);
