@@ -657,7 +657,7 @@ address a:active {
   top: 8px;
   right: 8px;
 
-  display: block;
+  display: flex;
   width: 30px;
   height: 30px;
   justify-content: center; 
@@ -670,7 +670,6 @@ address a:active {
   cursor: pointer;
 }
 .close-btn-icon {
-  display: block;
   width: 18px;
   height: 18px;
   fill: currentColor;
